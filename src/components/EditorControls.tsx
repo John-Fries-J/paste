@@ -122,11 +122,11 @@ export default function EditorControls({
         <Button
           className="optional"
           as="a"
-          href="https://github.com/lucko/paste#readme"
+          href="https://johnfries.net"
           target="_blank"
           rel="noreferrer"
         >
-          [about]
+          [website]
         </Button>
       </Section>
     </Header>
